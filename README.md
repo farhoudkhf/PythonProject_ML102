@@ -9,14 +9,14 @@ ch#4 Practical Data Visualization
 
 07/Jan/2025 - exercise 05 -> ch#5Exploratory Data Analysis 
 
+08/Jan - exersise06 -> ch#6 Getting Started with ML [Planed_08/01/2025]
+
 ToBeCompleted
 
-  -> ch#6 Getting Started with Machine Learning Plan for 08/01/2025 Wed
-  -> ch#7 Data Sourcing via Web Scraping 
-  -> ch#8 Collaborative Analytics with Streamlit
+  -> <c> ch#6 Getting Started with Machine Learning Plan for 08/01/2025 Wed
+  -> <ip> ch#7 Data Sourcing via Web Scraping [Plan_09/01/2025]
+  -> <ns> ch#8 Collaborative Analytics with Streamlit
 
-  just to check this is still working correctly
-   
 
 
 
