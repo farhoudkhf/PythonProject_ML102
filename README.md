@@ -13,7 +13,10 @@ ToBeCompleted
 
   -> ch#6 Getting Started with Machine Learning Plan for 08/01/2025 Wed
   -> ch#7 Data Sourcing via Web Scraping 
-  -> ch#8 Collaborative Analytics with Streamlit 
+  -> ch#8 Collaborative Analytics with Streamlit
+
+  just to check this is still working correctly
+   
 
 
 
