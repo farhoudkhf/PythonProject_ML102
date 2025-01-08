@@ -1,10 +1,18 @@
-test readMe! 
+Python for Data Science and Machine Learning Part 1 
 
-this is a workspace.
+ch#1 Introduction to the Data Professions 
+ch#2 Data Preparation Basics
+ch#3 Data Visualization 101
+ch#4 Practical Data Visualization
 
-This is test for commit on 05/Jan/2025
+06/Jan/2025 - exercise 04 completed -> c02 -> c03
 
-06/Jan/2025 - exercise 04 completed --> c02 --> c03
+07/Jan/2025 - exercise 05 -> ch#5Exploratory Data Analysis 
 
-07/Jan/2025 - exercise 05 Python for Data Science and Machine Learning Essential Training Part 1
+ToBeCompleted
+-> ch#6 Getting Started with Machine Learning
+-> ch#7 Data Sourcing via Web Scraping 
+-> ch#8 Collaborative Analytics with Streamlit 
+
+
 
