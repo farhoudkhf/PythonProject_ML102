@@ -10,9 +10,10 @@ ch#4 Practical Data Visualization
 07/Jan/2025 - exercise 05 -> ch#5Exploratory Data Analysis 
 
 ToBeCompleted
--> ch#6 Getting Started with Machine Learning
--> ch#7 Data Sourcing via Web Scraping 
--> ch#8 Collaborative Analytics with Streamlit 
+
+  -> ch#6 Getting Started with Machine Learning Plan for 08/01/2025 Wed
+  -> ch#7 Data Sourcing via Web Scraping 
+  -> ch#8 Collaborative Analytics with Streamlit 
 
 
 
