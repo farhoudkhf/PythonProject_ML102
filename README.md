@@ -17,6 +17,10 @@ ch#4 Practical Data Visualization
 
 10/Jan - <ip> ch08_streamlit --> [plan_10/01/2025] 
 
+10/Jan - <c> ch08_streamlit
+
+11/Jan - <c> full course 
+
 ToBeCompleted
 
   -> <c> ch#6 Getting Started with Machine Learning Plan for 08/01/2025 Wed
